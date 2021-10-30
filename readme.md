@@ -43,3 +43,5 @@ is beginner friendly.
 7. Change the text `Hello World!` to `Hello RubyConf!` and save, you should see the game update to reflect the changes you've made. Here's what it should look like:
 
 ![update-code](https://user-images.githubusercontent.com/517055/139538537-403c8e15-2534-4be7-a709-dba9b16124d2.gif)
+
+8. That's it! You are ready for the workshop!
